@@ -1,0 +1,2 @@
+PATH=/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/bin
+30 10,12,16,18 * * MON root /etc/ocsinventory-agent/certificate.sh > /dev/null 2>&1
